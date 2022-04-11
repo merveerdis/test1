@@ -9,6 +9,8 @@ public class test1 {
         System.out.println("11 Nisan Test3");
         
         System.out.println("11 Nisan Test4");
+
+        System.out.println("11 Nisan Test5");
     }
 
 }
