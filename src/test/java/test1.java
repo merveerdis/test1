@@ -5,6 +5,8 @@ public class test1 {
         System.out.println("11 Nisan Test1");
 
         System.out.println("11 Nisan Test2");
+
+        System.out.println("11 Nisan Test3");
     }
 
 }
